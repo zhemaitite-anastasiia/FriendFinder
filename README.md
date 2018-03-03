@@ -1,5 +1,6 @@
 # FriendFinder
 "FriendFinder" application is a dating app. This full-stack site will take in results your users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.
+Friend Finder is deployed to Heroku. Please check it out https://boiling-bayou-59204.herokuapp.com/
 ![Alt text](/home.png?raw=true "Home Page")
 ![Alt text](/survey.png?raw=true "Survey Form")
 ![Alt text](/match.png?raw=true "Match")
